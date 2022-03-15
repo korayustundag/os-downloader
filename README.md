@@ -1,2 +1,2 @@
-# os-downloader
+# OS Downloader
 Operating System Downloader
