@@ -1,0 +1,1 @@
+[OS Downloader Logo](https://github.com/korayustundag/os-downloader/blob/main/OSDownloader/Resources/os_downloader_logo.ico) © 2022 by [Koray Üstündağ](https://github.com/korayustundag/) is licensed under  [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
